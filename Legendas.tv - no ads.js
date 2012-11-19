@@ -8,7 +8,7 @@
 // @version        0.2a
 // @include        http://legendas.tv/*
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
-// @history        0.1a alfa, primeira vers„o, primeira vez
+// @history        0.1a alfa, primeira vers√£o, primeira vez
 // @history        0.2a retira as propagandas e aumenta as fontes
 // ==/UserScript==
 (function(){
